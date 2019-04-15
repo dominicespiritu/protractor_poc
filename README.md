@@ -1,5 +1,5 @@
 
-# protractor
+# Protractor POC
 
 
 This project uses selenium web driver and protractor to automate usecase scenario on your web app
