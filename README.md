@@ -27,6 +27,8 @@ $ npm -v
 On your commandline/terminal:
 ```
 $ npm i or npm install
+$ npm install protractor-jasmine2-screenshot-reporter
+$ npm install jasmine-spec-reporter
 ```
 
 Install protractor
