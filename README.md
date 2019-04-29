@@ -40,6 +40,7 @@ $ npm install -g protractor
 Install web driver manager
 
 ```
+$ npm install webdriver-manager
 $ webdriver-manager update
 ```
 
